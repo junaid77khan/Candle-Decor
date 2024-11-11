@@ -15,7 +15,8 @@ const corsConfig = {
     "http://localhost:5173",
     "https://decor-candle-admin.vercel.app",
     "https://decor-candle.vercel.app",
-    "https://candle-decor.vercel.app"
+    "https://candle-decor.vercel.app",
+    "https://candle-decor-admin.vercel.app"
   ],
   credentials: true,
   methods: ["GET", "POST", "DELETE", "PUT"],
